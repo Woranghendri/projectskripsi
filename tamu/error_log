@@ -1,0 +1,429 @@
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/musomagm/public_html/koneksi.php on line 3
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/musomagm/public_html/koneksi.php on line 3
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 26
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 27
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 29
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 44
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 45
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 47
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 62
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 63
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 65
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 79
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 80
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 82
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 99
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 100
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 103
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 118
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 119
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 122
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 137
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 138
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 141
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 155
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 156
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 158
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 172
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 173
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 175
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 176
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 178
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 192
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 193
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 210
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 211
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 228
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 229
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 153
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 154
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 170
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 171
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 194
+[13-Dec-2023 03:47:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 195
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/musomagm/public_html/koneksi.php on line 3
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/musomagm/public_html/koneksi.php on line 3
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 26
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 27
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 29
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 44
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 45
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 47
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 62
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 63
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 65
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 79
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 80
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 82
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 99
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 100
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 103
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 118
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 119
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 122
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 137
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 138
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 141
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 155
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 156
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 158
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 172
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 173
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 175
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 176
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 178
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 192
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 193
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 210
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 211
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 228
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 229
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 153
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 154
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 170
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 171
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 194
+[13-Dec-2023 03:47:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 195
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/musomagm/public_html/koneksi.php on line 3
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/musomagm/public_html/koneksi.php on line 3
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 26
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 27
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 29
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 44
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 45
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 47
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 62
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 63
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 65
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 79
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 80
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 82
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 99
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 100
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 103
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 118
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 119
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 122
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 137
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 138
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 141
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 155
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 156
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 158
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 172
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 173
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 175
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 176
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/index.php on line 178
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 192
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 193
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 210
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 211
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/index.php on line 228
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/index.php on line 229
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 105
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 106
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 109
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 110
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 130
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 131
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 134
+[13-Dec-2023 03:47:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/musomagm/public_html/tamu/footer.php on line 135
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 153
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 154
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 170
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 171
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/musomagm/public_html/tamu/footer.php on line 194
+[13-Dec-2023 03:47:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/musomagm/public_html/tamu/footer.php on line 195
+[13-Dec-2023 04:46:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 193
+[13-Dec-2023 04:46:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 211
+[13-Dec-2023 04:46:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 229
+[13-Dec-2023 04:46:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 193
+[13-Dec-2023 04:46:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 211
+[13-Dec-2023 04:46:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 229
+[13-Dec-2023 09:53:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 193
+[13-Dec-2023 09:53:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 211
+[13-Dec-2023 09:53:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 229
+[13-Dec-2023 09:54:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 193
+[13-Dec-2023 09:54:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 211
+[13-Dec-2023 09:54:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/musomagm/public_html/tamu/index.php on line 229
